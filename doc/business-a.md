@@ -20,4 +20,6 @@ Oh fie fie (whatever shakespeare said in lament)
 
 Ok, drama.  Would rather **not** but idk if this is what is wanted.
 
+[github|clangd](https://github.com/clangd/clangd)
+
 #### end.
