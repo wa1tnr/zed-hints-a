@@ -26,4 +26,6 @@ Ok, drama.  Would rather **not** but idk if this is what is wanted.
 
 [fcs: https://clangd.llvm.org/](https://clangd.llvm.org/)
 
+[vyodyu|faq|example_config](https://github.com/llvm/clangd-www/blob/main/faq.md#can-you-give-an-example-configuration-file-for-clangd)
+
 #### end.
