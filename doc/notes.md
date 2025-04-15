@@ -36,3 +36,11 @@ purposes.  The long spelled out form of LSP was used - language server protocol.
 like that.
 
 Adding that .. topic? to this repository kicked in that door. ;)
+
+Literally on github is seen:
+
+  Edit repository details
+  Topics  language-server-protocol zed clangd zed-editor
+
+So, it's 'topics' on github (not 'tagging').  As reflected in the URI name
+cited above (for the language server topic).
