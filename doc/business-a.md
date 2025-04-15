@@ -30,4 +30,7 @@ Ok, drama.  Would rather **not** but idk if this is what is wanted.
 
 [maybe maybe paydirt](https://github.com/llvm/clangd-www/blob/main/faq.md#how-do-i-make-additional-headers-visible-to-clangd)
 
+[pio|Compilation database|compile_commands.json](https://docs.platformio.org/en/latest/integration/compile_commands.html)
+
+
 #### end.
