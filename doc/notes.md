@@ -19,3 +19,20 @@ and if this is the preferred means to address the issue systemically.
 
 Of note is the use of Arduino IDE and/or platformio (Arduino Framework)
 and that the test project used in the investigation
+
+
+no markup highlight seen without the square and round brace markings:
+
+  [label](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#clangd)
+
+The above URI starts to give hints about clangd and lsp and idk what. ;)
+Just building some cheaply acquired working vocabulary.
+
+The 'tagging' (alike?) feature of github.com is exploited here, for discovery
+purposes.  The long spelled out form of LSP was used - language server protocol.
+
+[topics: lsp](https://github.com/topics/language-server-protocol)
+
+like that.
+
+Adding that .. topic? to this repository kicked in that door. ;)
