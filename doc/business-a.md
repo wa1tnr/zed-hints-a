@@ -14,4 +14,10 @@ Want: to continue existing work **without** the warnings in the red x count icon
 
 Need: to sort that a bit more than has been done so far. ;)
 
+Oh fie fie (whatever shakespeare said in lament)
+
+[ugly ugly bags of mostly water](https://github.com/arduino/arduino-language-server)
+
+Ok, drama.  Would rather **not** but idk if this is what is wanted.
+
 #### end.
