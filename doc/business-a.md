@@ -22,4 +22,6 @@ Ok, drama.  Would rather **not** but idk if this is what is wanted.
 
 [github|clangd](https://github.com/clangd/clangd)
 
+[clang compiler user's manual](https://clang.llvm.org/docs/UsersManual.html)
+
 #### end.
