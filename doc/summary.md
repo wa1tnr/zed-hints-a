@@ -24,3 +24,47 @@ in the 'foot' terminal program.  The bottom of vscode is purple and the top is
 in blue, to emphasise this is somehow unusual.  Not really sure what they're
 on about, but it is consistent to itself (does it every time, at least for
 common use cases).
+
+## vscode provides wokwi
+
+Since wokwi vscode extension is formed around vscode, it isn't going anywhere.
+Almost deleted it this morning in solidarity with deletion of zed ;)
+
+But it's used!  Had forgotten that.
+
+This is the thing with tools: they are set aside, no matter how intriguing
+they have become during shorter encounters with them.
+
+There's always new tools - new to the individual.  If flint and steel make
+spark but never for you and in front of you - and then that happens - for
+you it is a new tool.  Even though it's been in use by others for .. 800k
+years said a recent YT algorithm-curated vid.
+
+Well, cooking/fire is what it said - nothing about generation (flint) practice.
+Maybe they got really good at bow drill.
+
+## vim provides text editing
+## the shell provides locational buffering
+
+Writing a file to disk is still king - that's a buffer.  It's a 'disk buffer'
+Period.  A close relationship to the shell is essential; anything that 'mediates'
+between the operator and that had better prove its case constantly.
+
+Since it's not going to replace the shell it'll function alongside it - did not
+want to pick a word where 'alongside' was used.  There's so many geometrical
+metaphors (to locate 'it' in 'space') that apply, enough to work with frequently
+(wanted to type 'daily' but that may be going too far).
+
+`9`
+`8`
+`7`
+`6`
+`5`
+`4`
+`3`
+`2`
+`1`
+
+editing: maintain 9 blank lines above this one.
+
+#### end.
