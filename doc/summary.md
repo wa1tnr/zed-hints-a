@@ -48,12 +48,31 @@ Maybe they got really good at bow drill.
 
 Writing a file to disk is still king - that's a buffer.  It's a 'disk buffer'
 Period.  A close relationship to the shell is essential; anything that 'mediates'
-between the operator and that had better prove its case constantly.
+between the operator -- and that -- had better prove its case constantly.
 
-Since it's not going to replace the shell it'll function alongside it - did not
+Particularly with the left column nav box - yet another attempt to graphicialize
+(haha) filesystem directory/file hierarchy where it was already perfectly clear
+to the **skilled typist** what is going on there.
+
+No need for a mouse at all.
+
+Any clumsy use requiring the mouse -- as the shortest route -- is a fail.
+
+Well 'any' is too broad, isn't it.  'Most clumsy uses' there. ;)
+
+Since it\*\* is not going to replace the shell it'll function alongside it - did not
 want to pick a word where 'alongside' was used.  There's so many geometrical
 metaphors (to locate 'it' in 'space') that apply, enough to work with frequently
 (wanted to type 'daily' but that may be going too far).
+
+\*\* it == graphical hierarchal tree structure, usually in the left 1/5 of the screen real estate, but dominating it entirely for all those otherwise wasted pixels of valuable screen real estate dotcom
+
+Which by the way is a side effect of **damaging** the visual paradigm via the necessity of letterboxing video for entertainment .. only .. purposes.  5:4 and 4:3 generally preferred for work/business, due to the theft of icon and font sizing to squeeze in all the b.s. that is usually oriented towards revenue generation for somebody **else** besides the owner of that very desktop PC.
+
+Handhelds are not even considered. They are toys for children and an attention trap.  Adults should
+reject them on that basis, alone, just as they wouldn't stay in short pants into their 30's.
+
+Aight it's just a rant at this point.  Hard to stay on point to make it high-brow. ;)
 
 `9`
 `8`
@@ -63,7 +82,7 @@ metaphors (to locate 'it' in 'space') that apply, enough to work with frequently
 `4`
 `3`
 `2`
-`1`
+`1` `<-- hey that's really nice`
 
 editing: maintain 9 blank lines above this one.
 
